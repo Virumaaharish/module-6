@@ -1,4 +1,8 @@
 # EX-26-AREA-OF-RECTANGLE-USING- POINTER
+
+NAME : VIRUMAA HARISH M
+
+REG: 212223230246
 ## AIM
 To write a C Program to find area of rectangle using pointer.
 
